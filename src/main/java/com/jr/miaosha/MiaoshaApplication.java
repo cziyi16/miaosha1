@@ -1,13 +1,13 @@
-package com.jr.miaosha1;
+package com.jr.miaosha;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Miaosha1Application {
+public class MiaoshaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Miaosha1Application.class, args);
+        SpringApplication.run(MiaoshaApplication.class, args);
     }
 
 }
